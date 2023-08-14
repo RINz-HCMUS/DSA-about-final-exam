@@ -16,5 +16,5 @@
 
   ## 4. Double Hasing
   > Hash: ***(key + i * Hash2(key)) & size***  
-  > Với i = 0, i++
-  > Hash2: *** key % another*** 
+  > Với i = 0, i++  
+  > Hash2: ***key % another*** 
