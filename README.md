@@ -1,5 +1,6 @@
 # DSA final exam
 ## ***Về bài thi***
+- Được mang tài liệu: 1 tờ giấy A4 ghi tên + mssv
 - Làm trực tiếp trên đề  
 - Làm bằng tiếng Anh (có thể chú thích bằng tiếng việt)  
 - Đề gồm 5 đến 6 câu, mỗi câu có thể có 3 đến 4 câu nhỏ  
